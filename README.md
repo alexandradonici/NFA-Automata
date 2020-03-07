@@ -1,3 +1,3 @@
 # NFA-Automata
 
-Acceptability of a string by NFA (Nondeterministic Finite Automata)
+Acceptance of a string by NFA (Nondeterministic Finite Automata)
